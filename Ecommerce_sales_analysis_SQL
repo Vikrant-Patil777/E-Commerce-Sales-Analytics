@@ -26,7 +26,6 @@ CREATE TABLE ecommerce_sales_data (
     Payment_Method VARCHAR(50),
     Order_Status VARCHAR(50)
 );
-
 describe ecommerce_sales_data;
 
 select
